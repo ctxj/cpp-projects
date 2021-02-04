@@ -193,7 +193,7 @@ int main()
 
     do
     {
-        std::cout << "0. Quit\n" << "1. Practice Multipplication\n" << "2. Practice Division\n" << "3. Practice Addition\n" << "4. Practice Subtraction" << std::endl;
+        std::cout << "0. Quit\n" << "1. Practise Multiplication\n" << "2. Practise Division\n" << "3. Practise Addition\n" << "4. Practise Subtraction" << std::endl;
         std::cin >> choice;
 
         switch(choice)
