@@ -1,9 +1,9 @@
 # Arithmetic Console App
 Written in c++ to practise syntax and to brush up on mental arithmetic
 ##  Code
-[arithmetic.cpp](https://github.com/ctxj/cpp-projects/blob/main/arithemtic.cpp)
+[arithmetic.cpp](https://github.com/ctxj/cpp-projects/blob/main/arithmetic.cpp)
 ## Executable
-[arithemtic.exe](https://github.com/ctxj/cpp-projects/blob/main/requirements.txt)
+[arithemtic.exe](https://github.com/ctxj/cpp-projects/blob/main/arithmetic.exe)
 ## Details
 Start menu
 ```
