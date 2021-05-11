@@ -17,12 +17,12 @@ Select type to practise
 
 ```
 1
-Enter Multiplication range:
+Enter multiplication range:
 Answer as many questions in 60 seconds!
 3 x 4
 ```
 Choose difficulty by inputting multiplication range  
-60 seconds to answer as many question  
-"ctrl+c" to stop program at any point
+60 seconds to answer as many questions  
+"Ctrl+C" to stop program at any point
 ## User input errors
 Caught all user input errors leading to console freeze
